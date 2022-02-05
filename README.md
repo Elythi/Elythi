@@ -6,7 +6,7 @@
 
 -� | My birthey day is in 02/07/2006;
 
--� | I am learning PHP and i intend to be back-end.
+-� | I am learning Python and Java, i intend to be back-end.
 
 <div align="center">
   <a href="https://github.com/Elythi">
